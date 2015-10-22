@@ -1,0 +1,1 @@
+	hello this is a git test text,use to learn how to use git.
