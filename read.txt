@@ -3,4 +3,4 @@
 
 	FFF f = new FFF();
 	f.fire();
-asdsadsaddsadsadsad
+Creating a new branch is quick & simple.
